@@ -6,19 +6,21 @@ The code was created in part of my master's thesis at Heidelberg University, wor
 
 **How to use the code:**
 
+*Prerequisites: [conda](https://docs.conda.io/en/latest/) must be installed.*
+
 1. Create a new conda environment from the .yml file, using 
 
    ```
    conda env create --file env.yml
    ```
 
-2. Open JupyterLab (or, alternatively, Jupyter Notebook) by running the command
+2. Activate the environment:
 
    ```
-   jupyter lab [path of the repository]
+   conda activate ds_gen
    ```
 
-3. Modify the generation settings in the generate_datasets.py file (some pre-defined example settings are provided in the file).
+3. Modify the generation settings in the generate_datasets.py file (some pre-defined example settings are provided in the file)
 
 4. Run the command
 
