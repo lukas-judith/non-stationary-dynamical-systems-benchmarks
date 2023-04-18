@@ -1,7 +1,6 @@
-# Non-Stationary Dynamical Systems Benchmarks
+# Generation of Non-Stationary Dynamical Systems
 
-This code was created for my master's thesis project at Heidelberg University, in the [group of Prof. Daniel Durstewitz](https://durstewitzlab.github.io). The focus of my thesis is the reconstruction of dynamical systems with non-stationary parameters from time series data, using recurrent neural networks. The code provided can be used to generate different benchmark systems to assess the performance of such models.
-
+This code was created for my master's thesis project at Heidelberg University, in the [group of Prof. Daniel Durstewitz](https://durstewitzlab.github.io). The focus of my thesis is the reconstruction of dynamical systems with non-stationary parameters from time series data, using recurrent neural networks. The code provided can be used to generate different benchmark systems to assess the performance of such models. *Note: this repository does not include code for the architecture I developed during the thesis project, this is only available in the group's internal repository.*
 
 
 **How to use the code:**
